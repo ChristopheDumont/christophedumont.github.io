@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Christophe Dumont</title>
+    <link>http://christophedumont.github.io/posts/</link>
+    <description>Recent content in Posts on Christophe Dumont</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>christophe.dumont5@hotmail.com (Christophe Dumont)</managingEditor>
+    <webMaster>christophe.dumont5@hotmail.com (Christophe Dumont)</webMaster>
+    <lastBuildDate>Sat, 07 May 2016 12:44:58 +0200</lastBuildDate>
+    <atom:link href="http://christophedumont.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>http://christophedumont.github.io/posts/test/</link>
+      <pubDate>Sat, 07 May 2016 12:44:58 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/posts/test/</guid>
+      <description>&lt;html&gt;
+&lt;head&gt;
+
+  &lt;style&gt;
+  	.rotate90 {
+      -webkit-transform: rotate(90deg);
+      -moz-transform: rotate(90deg);
+      -o-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+      transform: rotate(90deg);
+  }
+
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;section class=&#34;bg-dark&#34; id=&#34;about&#34;&gt;
+    &lt;div class=&#34;container&#34;&gt;
+        &lt;div class=&#34;row&#34;&gt;
+			&lt;div class=&#34;col-lg-8 col-lg-offset-2 text-center&#34;&gt;
+                &lt;h2 class=&#34;section-heading&#34;&gt;IT-Profile&lt;/h2&gt;
+                &lt;hr class=&#34;light&#34;&gt;
+				&lt;h4&gt;In dit profiel stel ik de skills voor die ik de laatste jaren heb ontwikkeld.&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+&lt;/section&gt;
+&lt;section class=&#34;bg-dark&#34; id=&#34;skills&#34;&gt;
+	&lt;div class=&#34;container&#34;&gt;
+        &lt;div class=&#34;row&#34;&gt;
+
+
+
+            &lt;div class=&#34;col-lg-10 col-lg-offset-1 text-center&#34;&gt;
+					 &lt;div class=&#34;progress&#34;&gt;
+						  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
+						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
+							C#
+						  &lt;/div&gt;
+					&lt;/div&gt;
+            &lt;/div&gt;
+			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
+					 &lt;div class=&#34;progress&#34;&gt;
+						  &lt;div class=&#34;progress-bar progress-bar-info progress-bar-striped active&#34; role=&#34;progressbar&#34;
+						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:50%&#34;&gt;
+							jQuery
+						  &lt;/div&gt;
+					&lt;/div&gt;
+            &lt;/div&gt;
+			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
+					 &lt;div class=&#34;progress&#34;&gt;
+						  &lt;div class=&#34;progress-bar progress-bar-danger progress-bar-striped active&#34; role=&#34;progressbar&#34;
+						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:20%&#34;&gt;
+							PHP
+						  &lt;/div&gt;
+					&lt;/div&gt;
+            &lt;/div&gt;
+			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
+					 &lt;div class=&#34;progress&#34;&gt;
+						  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
+						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:75%&#34;&gt;
+							HTML/CSS
+						  &lt;/div&gt;
+					&lt;/div&gt;
+            &lt;/div&gt;
+			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
+					 &lt;div class=&#34;progress&#34;&gt;
+						  &lt;div class=&#34;progress-bar progress-bar-info progress-bar-striped active&#34; role=&#34;progressbar&#34;
+						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:60%&#34;&gt;
+							SQL
+						  &lt;/div&gt;
+					&lt;/div&gt;
+            &lt;/div&gt;
+			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
+					 &lt;div class=&#34;progress&#34;&gt;
+						  &lt;div class=&#34;progress-bar progress-bar-warning progress-bar-striped active&#34; role=&#34;progressbar&#34;
+						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:30%&#34;&gt;
+							JavaScript
+						  &lt;/div&gt;
+					&lt;/div&gt;
+            &lt;/div&gt;
+			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
+					 &lt;div class=&#34;progress&#34;&gt;
+						  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
+						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:90%&#34;&gt;
+							GIT
+						  &lt;/div&gt;
+					&lt;/div&gt;
+            &lt;/div&gt;
+
+
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+&lt;section class=&#34;bg-dark&#34; id=&#34;extra&#34;&gt;
+    &lt;div class=&#34;container&#34;&gt;
+        &lt;div class=&#34;row&#34;&gt;
+			&lt;div class=&#34;col-lg-8 col-lg-offset-2 text-center&#34;&gt;
+                &lt;h2 class=&#34;section-heading&#34;&gt;Extra info!&lt;/h2&gt;
+                &lt;hr class=&#34;light&#34;&gt;
+
+					&lt;div class=&#34;col-lg-10 col-lg-offset-1 text-center&#34;&gt;
+						 &lt;div class=&#34;progress&#34;&gt;
+							  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
+							  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
+								Windows Server 2012 R2
+							  &lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
+						 &lt;div class=&#34;progress&#34;&gt;
+							  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
+							  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:75%&#34;&gt;
+								WIndows 7
+							  &lt;/div&gt;
+						&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
+						 &lt;div class=&#34;progress&#34;&gt;
+							  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
+							  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:95%&#34;&gt;
+								Windows 8
+							  &lt;/div&gt;
+						&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
+					 &lt;div class=&#34;progress&#34;&gt;
+						  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
+						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:95%&#34;&gt;
+							Windows 10
+						  &lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+&lt;/section&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voici un reportage photo concernant le stage!</title>
+      <link>http://christophedumont.github.io/posts/Taak12/</link>
+      <pubDate>Mon, 14 Mar 2016 16:51:44 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/posts/Taak12/</guid>
+      <description>
+
+&lt;h3 id=&#34;cliquez-ici-https-docs-google-com-presentation-d-1gaadtel5gmx3s421gjqxydm1b2zq79eoplathya6xck-edit-usp-sharing:26ac90d5636aeeccc2ea2c4de80820a6&#34;&gt;Cliquez &lt;a href=&#34;https://docs.google.com/presentation/d/1GAAdtEl5gMX3S421gJqxYdM1B2Zq79eoPlAthyA6XCk/edit?usp=sharing&#34;&gt;ici&lt;/a&gt;.&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welkom op mijn GIP-website!</title>
+      <link>http://christophedumont.github.io/posts/Welkom/</link>
+      <pubDate>Wed, 21 Oct 2015 15:58:25 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/posts/Welkom/</guid>
+      <description>&lt;p&gt;Ik ben Christophe Dumont, leerling van Immaculata Insituut te Oostmalle en dit is mijn website voor mijn Geïntegreerde Proef! Ik ben 17 jaar en ik zit in 6 Informaticabeheer. Mijn hobby’s zijn Scouts, fitness, videogames spelen en lezen.  Ik heb al redelijk wat ervaring omtrent informatica, zowel in het programmeren als de hardware. Uiteraard heb ik de grootste interesse voor alles wat met informatica te maken heeft!
+Op mijn website zal u al mijn taken en stageverslagen vinden die ik moet maken voor mijn Geïntegreerde proef en stagebedrijf. Ik heb mijn website heel simpel gehouden, want dat is altijd gebruiksvriendelijker voor zowel u als mij. Helemaal links vindt u een navigatiebalk waar u alles vindt.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Home is een overzichtje van mijn recentste artikelen op de website.&lt;/li&gt;
+&lt;li&gt;Posts zijn niet-taak gerelateerde artikelen die ik toevoeg om te testen en extra informatie te geven.&lt;/li&gt;
+&lt;li&gt;Stageverslagen spreekt beetje voor zich. Hier vindt u mijn blog die ik ten tijde van mijn stageperiode zal bijhouden.&lt;/li&gt;
+&lt;li&gt;Gip taken zal u naar al mijn taken brengen, daar kan u ze allemaal bekijken.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In de toekomst zou ik zeker en vast iets willen doen met mijn informatica-ervaringen. Daarom mik ik op een plaats bij een groot IT-bedrijf. IT zal altijd een grote rol hebben in mijn leven. Ik ben ook van plan om als bijberoep een freelance-programmeur te worden en van programmeren een hobby te maken. Ik ben zeker benieuwd naar wat de toekomst zal brengen!
+Alvast heel veel leesplezier gewenst! Indien u vragen heeft, kan u mij contacteren via mijn e-mail (christophe.dumont@immalle.be).&lt;/p&gt;
+
+&lt;p&gt;Christophe Dumont&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

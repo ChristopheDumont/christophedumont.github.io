@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giptakens on Christophe Dumont</title>
+    <link>http://christophedumont.github.io/giptaken/</link>
+    <description>Recent content in Giptakens on Christophe Dumont</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>christophe.dumont5@hotmail.com (Christophe Dumont)</managingEditor>
+    <webMaster>christophe.dumont5@hotmail.com (Christophe Dumont)</webMaster>
+    <lastBuildDate>Sun, 08 May 2016 16:39:18 +0200</lastBuildDate>
+    <atom:link href="http://christophedumont.github.io/giptaken/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Taak 08 SQL database app</title>
+      <link>http://christophedumont.github.io/giptaken/Taak08/</link>
+      <pubDate>Sun, 08 May 2016 16:39:18 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak08/</guid>
+      <description>
+
+&lt;h1 id=&#34;anoniem-forum:76518927b5a7756c390baa02ea585f6d&#34;&gt;Anoniem forum&lt;/h1&gt;
+
+&lt;h2 id=&#34;schema:76518927b5a7756c390baa02ea585f6d&#34;&gt;Schema&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/F5yUvQH.png&#34; alt=&#34;Schema&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;concept:76518927b5a7756c390baa02ea585f6d&#34;&gt;Concept&lt;/h2&gt;
+
+&lt;p&gt;Mijn applicatie gaat om een anoniem forum waar iedereen op kan. Iedereen kan een post plaatsen als hij/zij wenst en ook commentaar geven. De mensen hoeven zich niet aan te melden om op de site te komen. Bij het plaatsen van een post, kunnen ze kiezen of ze onder een bepaalde naam iets willen plaatsen of niet. Dat is de kern van mijn applicatie. Uitbreiding is zeker mogelijk, naar onder andere live-chat, bloggen, vloggen, delen van foto&amp;rsquo;s, enz &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Om te zien of er geen expliciete of ongeschikte beelden worden gepost, zijn er administrators die alles in het oog kunnen houden. Zij moeten zich dan aanmelden op de website en kunnen ze posts en commentaar verwijderen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taak 11 Case Study</title>
+      <link>http://christophedumont.github.io/giptaken/Taak11/</link>
+      <pubDate>Sat, 07 May 2016 12:01:03 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak11/</guid>
+      <description>
+
+&lt;h2 id=&#34;citrix-xenapp-case-study-review:19307dae22f5a0eeab2110c418be27e0&#34;&gt;CITRIX XenApp Case Study Review&lt;/h2&gt;
+
+&lt;h1 id=&#34;waarom-citrix-xenapp:19307dae22f5a0eeab2110c418be27e0&#34;&gt;Waarom Citrix XenApp?&lt;/h1&gt;
+
+&lt;p&gt;Mijn collega’s op het werk hadden mij niet alles kunnen laten zien van de Citrix XenApp omdat ze het niet heel uitgebreid gebruiken. Maar bij zoiets als dit hoeft dat ook niet! Oorspronkelijk gebruikten ze de Teamviewer 11 applicatie om klanten te helpen, waarmee je ook een scherm kan overnemen van een andere PC. Het bedrijf bied technische support aan voor KMO’s en de luchthaven van Antwerpen als ze met een probleem zitten. De reden dat ze overschakelden naar de XenApp is omdat dat gewoon veel meer mogelijkheden biedt. Zoals een offline PC (een computer die niet aan staat) gebruiken, hiervoor is er de engine. Maar een reden is dat ze het vooral met hun server konden gebruiken. Ze kunnen de Citrix XenApp verbinden met hun server, en zo op hun server werken. Dankzij de Citrix XenApp kunnen ze met 5 tegelijk op de server werken zonder elkander te hinderen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.peopleware.nl/technologie-partners/citrix/xenapp/PublishingImages/Citrix%20XenApp.png&#34; alt=&#34;Citrix logo&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;waarvoor-gebruiken-ze-het-in-het-stagebedrijf:19307dae22f5a0eeab2110c418be27e0&#34;&gt;Waarvoor gebruiken ze het in het stagebedrijf?&lt;/h1&gt;
+
+&lt;p&gt;Om technische hulp aan te bieden voor hun klanten. In plaats van naar de klant toe te gaan, is het nu mogelijk om vanuit het kantoor de PC over te nemen en na te kijken. De klanten kunnen dan naar de citrix login van het bedrijf gaan, bijvoorbeeld als het bedrijf DeaPlus een probleem hebben, moeten ze naar &lt;a href=&#34;https://asp.itce.be/deaplus&#34;&gt;https://asp.itce.be/deaplus&lt;/a&gt; gaan en daar aanmelden met hun Citrix account.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://bretty.me.uk/wp-content/uploads/2013/02/WI5-4.png&#34; alt=&#34;Login scherm&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Als ze daar op aangemeld zijn, kan het bedrijf verbinden met de PC van de klant en zo krijgen ze dan live-beelden. Indien de klant het wenst, neemt het bedrijf de PC volledig over en kunnen ze naar de oorzaak van het probleem zoeken.&lt;/p&gt;
+
+&lt;h1 id=&#34;bevindingen-eigen-mening:19307dae22f5a0eeab2110c418be27e0&#34;&gt;Bevindingen/ eigen mening&lt;/h1&gt;
+
+&lt;p&gt;Iedereen is tevreden dat ze zijn overgeschakelt naar de Citrix XenApp. Het heeft hun werk al heel wat gemakkelijker gemaakt want nu hoeven ze niet perse meer naar de locatie te gaan waar het probleem zich afspeelt. Ook kunnen ze heel gemakkelijk op hun server werken en samenwerken gaat alles veel sneller. Qua prijs is het wel redelijk duur, een eigen XenServer (die asp.itce.be) hosten kost al snel 345 EUR en de XenApp zelf 375 EUR. Maar al goed dat de Reciever volledig gratis is, dus die hoeven de klanten niet aan te schaffen. Zelf vind ik het een heel handige tool. Het maakt samenwerken heel wat handiger en hun werk heel wat gemakkelijker.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://a5.mzstatic.com/eu/r30/Purple2/v4/07/b6/6a/07b66a8a-803e-db65-224b-5cbf681cb2fa/screen480x480.jpeg&#34; alt=&#34;Citrix reciever&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taak 13 Review of a software tool in the training company: ITCE</title>
+      <link>http://christophedumont.github.io/giptaken/Taak13/</link>
+      <pubDate>Mon, 25 Apr 2016 12:18:05 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak13/</guid>
+      <description>&lt;p&gt;Hello, for my GIP assignment English “A review” I have chosen the application XenClient from CITRIX. The reason why I have chosen this application is because we had to choose one from our training company, and this application was frequently used in mine. I only saw the basics of XenClient, but thanks to dear Google (I crossed this site which explained a lot more &lt;a href=&#34;http://windowsitpro.com/virtualization/product-review-citrix-xenclient-enterprise-51&#34;&gt;http://windowsitpro.com/virtualization/product-review-citrix-xenclient-enterprise-51&lt;/a&gt;) I’ve learned a lot more, and I found out it’s actually a huge thing!&lt;/p&gt;
+
+&lt;p&gt;So what is this CITRIX XenClient and what is it used for? “Citrix XenClient is a Type 1 (or bare metal) client hypervisor from software provider Citrix Systems. Citrix XenClient virtual machines (VMs) are managed with a product called Citrix Synchronizer.” (Source definition: &lt;a href=&#34;http://searchvirtualdesktop.techtarget.com/definition/Citrix-XenClient&#34;&gt;http://searchvirtualdesktop.techtarget.com/definition/Citrix-XenClient&lt;/a&gt;) And now come a lot of very IT-related statements. The Citrix XenClient is a tool which allows virtual machines to be shared to other virtual machines and they can be accessed by multiple virtual machines. Those virtual machines can easily be hosted by the XenClient. The Synchronizer they speak of applies the changes you make to the virtual machines on the XenClient. The Synchronizer can also backup, deploy virtual machines and utilize image layering technology. It allows users to access another PC over the internet and make changes on that PC while sitting at home or at work. At my training company they used it to help out a customer who had a problem with his PC. So they could talk to them over the phone and browse around their PC searching for the problem and applying solutions/fixes.&lt;/p&gt;
+
+&lt;p&gt;I found this tool to be very interesting, and it surely is very recommended for companies which offer customer support. The review I used to get more information provided some very good pros and cons about the tool. For example as a pro: “The IT can easily control and manage user laptops, computers and tablets remotely.”. Having that as a pro makes it suitable for use. Creating and deploying new virtual machines with XenClient is a piece of cake. They also reported that the XenClient is rather expensive, it having a minimum price of $1070 and very high system requirements. Anyhow, I think the price is worth it for an investment for better customer support. Because regardless of the network connection being very well or awfully bad, the new version only requires your own network as everything is done locally!&lt;/p&gt;
+
+&lt;p&gt;Despite having an expensive license, having high system requirements, not so clear documentation about how to deploy something, I think this tool is a must-have for support desks at a company. It’s really cool too, and the technology behind it must be very complex! Sadly I couldn’t see more advanced things about it at my training company, it’s really interesting. I give this tool a well deserved &lt;sup&gt;8&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taak 16 Huisstijl ITCE nv</title>
+      <link>http://christophedumont.github.io/giptaken/Taak16/</link>
+      <pubDate>Mon, 14 Mar 2016 12:30:01 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak16/</guid>
+      <description>
+
+&lt;h1 id=&#34;design:520571a6b255b9968f716e2006b78829&#34;&gt;Design&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.it-ce.be/nl/images/logo_print.jpg&#34; alt=&#34;Logo1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://jobfair08.bestsofia.org/logo/itce.jpg&#34; alt=&#34;Logo2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In het design van het logo is er niet al te veel aan gewerkt. Maar ze maken wel duidelijk dat ze een informatica-bedrijf zijn door de woorden “IT” in het rood te kleuren. Voor de rest heeft het niet echt typografische kenmerken, het lettertype is in hoofdletters zodat het goed te lezen is en het woord groot voorkomt.&lt;/p&gt;
+
+&lt;p&gt;Elke wagen van een werknemer heeft het logo “ITCE” op hun auto staan, zodat dat voor herkenning zorgt als ze naar een klant toerijden. Het is een kort en krachtig logo dat de naam van het bedrijf sterk weergeeft. Dit logo staat ook op de website, op hun mails, op hun facturen, alles wat met het bedrijf te maken heeft.&lt;/p&gt;
+
+&lt;h1 id=&#34;communicatie:520571a6b255b9968f716e2006b78829&#34;&gt;Communicatie&lt;/h1&gt;
+
+&lt;p&gt;Elke support-engineer (werknemer) begint hun telefoon gesprek met een klant met de woorden “Goede(morgen/middag/avond) met ITCE (naam werknemer), … “. Zodat de klant meteen weet dat ze bij het juiste bedrijf zitten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taak 03 YouTube video tutorial</title>
+      <link>http://christophedumont.github.io/giptaken/Taak03/</link>
+      <pubDate>Thu, 10 Dec 2015 18:45:14 +0100</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak03/</guid>
+      <description>
+
+&lt;h2 id=&#34;it-tapa-task-03-tutorial-video:33d18a3368b7df2c443283f47ce8f5b9&#34;&gt;It-Tapa task 03, tutorial video&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4xU5ybMzrUU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taak 04 Foire Aux Questions!</title>
+      <link>http://christophedumont.github.io/giptaken/Taak04/</link>
+      <pubDate>Sun, 06 Dec 2015 20:10:41 +0100</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak04/</guid>
+      <description>
+
+&lt;p&gt;Si vous avez des questions sur l&amp;rsquo;utilisation de YouTube, il y a une FAQ ci-dessous!&lt;/p&gt;
+
+&lt;h2 id=&#34;comment-puis-je-supprimer-une-playlist-de-vidéos:288591e4f4e311e9a73359f52dfd69db&#34;&gt;Comment puis-je supprimer une playlist de vidéos?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dans votre liste des playlists, cliquez sur la playlist que vous souhaitez supprimer. À droite on clique sur les trois points et on sélectionne ‘Supprimer la playlist’.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;où-puis-je-trouver-mes-vidéos-préférées:288591e4f4e311e9a73359f52dfd69db&#34;&gt;Où puis-je trouver mes vidéos préférées?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dans votre menu à gauche, cliquez sur la playlist “Favorites”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;si-vous-faites-une-playlist-sur-un-ordinateur-comment-est-ce-que-je-vois-cette-playlist-sur-une-autre-ordinateur:288591e4f4e311e9a73359f52dfd69db&#34;&gt;Si vous faites une playlist sur un ordinateur, comment est-ce que je vois cette playlist sur une autre ordinateur?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vous voyez la playlist quand vous connectez avec votre compte Google.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;comment-puis-je-supprimer-toute-une-playlist:288591e4f4e311e9a73359f52dfd69db&#34;&gt;Comment puis-je supprimer toute une playlist?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vous devez selectionner la playlist que vous voulez supprimer, à droite vous pouvez sélectionner l’option: “ Supprimer la playlist”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;quand-je-sélectionne-une-vidéo-la-vidéo-ne-marche-pas-comment-est-ce-que-je-la-trouve-maintenant:288591e4f4e311e9a73359f52dfd69db&#34;&gt;Quand je sélectionne une vidéo, la vidéo ne marche pas. Comment est-ce que je la trouve  maintenant?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pressez sur F5 sur votre clavier.&lt;/li&gt;
+&lt;li&gt;Redémarrez votre ordinateur.&lt;/li&gt;
+&lt;li&gt;Essayez avec un autre navigateur.&lt;/li&gt;
+&lt;li&gt;Mettez à jour votre navigateur.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;y-a-t-il-une-liste-d-histoire:288591e4f4e311e9a73359f52dfd69db&#34;&gt;Y a-t-il une liste d&amp;rsquo;histoire ?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Oui, on trouve ça aussi dans le menu à gauche mais cliquez sur “Historique”.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taak 05 An Autobiography about me!</title>
+      <link>http://christophedumont.github.io/giptaken/Taak05/</link>
+      <pubDate>Sun, 06 Dec 2015 19:58:49 +0100</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak05/</guid>
+      <description>
+
+&lt;h1 id=&#34;introduction:4c5b3b485fa30b2f5b47fbff7329b01f&#34;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;I’m Christophe Dumont, I’m 17 years old. My school is Immaculata Instituut in Oostmalle. I’ve been interested in computers since I was little. When my dad bought himself one, I used it way more than him. So that made me to the “Computer genius” I am now, my dearest friends call me that when they see me busy so I thought it was a cool nickname to live with.&lt;/p&gt;
+
+&lt;h1 id=&#34;how-it-all-began:4c5b3b485fa30b2f5b47fbff7329b01f&#34;&gt;How it all began&lt;/h1&gt;
+
+&lt;p&gt;Like I said in my introduction, my dad bought himself a PC but I was the one using it the most. I was 6 years old. My very first impression was how huge and heavy the case was. The next day I saw how my dad was using it and it enchanted me. I told my friends all about it and because their parents also had a PC, they told me several sites to visit. For example sites full of flash games: Spele.be, Miniclip.com, Kongregate.com, … and so on. I quickly learned my way around with my PC (actually my dad’s).  Years later, I started to use Microsoft Word and PowerPoint. Then I began customizing (personalizing) my dashboard. I learned everything about it, from looking up info to actually finding it myself without needing help.&lt;/p&gt;
+
+&lt;h1 id=&#34;what-it-means-to-me-today:4c5b3b485fa30b2f5b47fbff7329b01f&#34;&gt;What IT means to me today&lt;/h1&gt;
+
+&lt;p&gt;I had to ‘wait’ 4 years before I could study IT in my school. But it was totally worth it. Every day I spend at least two hours at my computer. So IT is a huge part of my life. I’m highly involved in gaming, but also in assembling computers for my friends. I assembled my first PC not that long ago: 4 months ago. In class I made networks, wrote my first programs, configured Windows and Linux. I also designed websites, not major ones, but smaller ones for myself just for fun. My first experience with programming was amazing. I could make a computer say something like “Hello, world!” for the first time in my life. It really made me think about all the possibilities. Now I know several programming languages and I’m happy I do. But, I’m nowhere near an expert. I’m still making mistakes but I’m learning from them. I won’t make the same mistake twice.&lt;/p&gt;
+
+&lt;h1 id=&#34;the-future:4c5b3b485fa30b2f5b47fbff7329b01f&#34;&gt;The future&lt;/h1&gt;
+
+&lt;p&gt;I don’t know where the future will bring me. There are so many options for me. Two major paths: networking/system management  or software design. I like both of them, but I think networking and system management will be easier for me. Software design like programming is a very hard thing to do.  I wouldn’t mind getting in the software branch, it’s just that I think it’s better as a hobby than having it as a job.&lt;/p&gt;
+
+&lt;h1 id=&#34;conclusion:4c5b3b485fa30b2f5b47fbff7329b01f&#34;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;IT has a very big part in my life. I really hope that in the near future I will be able to have a great job which involves IT.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/Q86UnIq.jpg&#34;&gt;                                 This is me designing a website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taak 07 Hugo Vs. WordPress</title>
+      <link>http://christophedumont.github.io/giptaken/Taak07/</link>
+      <pubDate>Thu, 22 Oct 2015 15:50:34 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak07/</guid>
+      <description>
+
+&lt;h1 id=&#34;vergelijking-tussen-hugo-en-wordpress:9552ad8b1e8ceb647bc9fde0bc2a93e1&#34;&gt;&lt;strong&gt;Vergelijking tussen Hugo en WordPress&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&#34;hugo:9552ad8b1e8ceb647bc9fde0bc2a93e1&#34;&gt;Hugo&lt;/h2&gt;
+
+&lt;h4 id=&#34;voordelen:9552ad8b1e8ceb647bc9fde0bc2a93e1&#34;&gt;Voordelen&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bij hugo wordt er gebruik gemaakt van markdown-bestanden.&lt;/li&gt;
+&lt;li&gt;Je kan offline je posts bewerken en later updaten.&lt;/li&gt;
+&lt;li&gt;Er zijn talloze thema&amp;rsquo;s ter beschikking, en eindeloze aanpassings-mogelijkheden.&lt;/li&gt;
+&lt;li&gt;Hosting op GitHub en GitLab.&lt;/li&gt;
+&lt;li&gt;Als je het eenmaal onder de knie hebt, valt er heel wat plezier mee te beleven.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;nadelen:9552ad8b1e8ceb647bc9fde0bc2a93e1&#34;&gt;Nadelen&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Het gebruik van afbeeldingen is moeilijk.&lt;/li&gt;
+&lt;li&gt;Kan heel moeilijk te begrijpen zijn, zeker in het begin.&lt;/li&gt;
+&lt;li&gt;Soms heel frustrerend.&lt;/li&gt;
+&lt;li&gt;Neemt tijd in beslag.&lt;/li&gt;
+&lt;li&gt;Niet overal duidelijk, zelf een thema maken is moeilijk.&lt;/li&gt;
+&lt;li&gt;Moeilijk te installeren!!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;wordpress:9552ad8b1e8ceb647bc9fde0bc2a93e1&#34;&gt;WordPress&lt;/h2&gt;
+
+&lt;h4 id=&#34;ik-heb-niet-veel-ervaring-met-wordpress-maar-aan-de-hand-van-bronnen-heb-ik-een-aantal-puntjes-gevonden:9552ad8b1e8ceb647bc9fde0bc2a93e1&#34;&gt;&lt;em&gt;Ik heb niet veel ervaring met WordPress, maar aan de hand van bronnen heb ik een aantal puntjes gevonden.&lt;/em&gt;&lt;/h4&gt;
+
+&lt;h4 id=&#34;voordelen-1:9552ad8b1e8ceb647bc9fde0bc2a93e1&#34;&gt;Voordelen&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Er is een console ter beschikking waar je een heel overzicht hebt van uw blog.&lt;/li&gt;
+&lt;li&gt;Gebruik van images zeer simpel, zeker met het bewerken hiervan.&lt;/li&gt;
+&lt;li&gt;Het is snel te leren, iedereen kan hier mee overweg.&lt;/li&gt;
+&lt;li&gt;Er bestaan mobiele applicaties voor WordPress die je kan gebruiken.&lt;/li&gt;
+&lt;li&gt;(Het is open source -&amp;gt; er zijn veel closed source items.)&lt;/li&gt;
+&lt;li&gt;Gemakkelijk te installeren.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;nadelen-1:9552ad8b1e8ceb647bc9fde0bc2a93e1&#34;&gt;Nadelen&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Niet offline, je hebt een internetverbinding nodig voor WordPress te gebruiken.&lt;/li&gt;
+&lt;li&gt;(Het is open source -&amp;gt; er zijn veel closed source items, dus niet volledige vrijheid.)&lt;/li&gt;
+&lt;li&gt;Hier en daar aantal bugs.&lt;/li&gt;
+&lt;li&gt;Hosting is niet altijd evident voor de gemiddelde gebruiker die niet veel geld kan besteden.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;conclusie:9552ad8b1e8ceb647bc9fde0bc2a93e1&#34;&gt;Conclusie&lt;/h1&gt;
+
+&lt;p&gt;Als je nog niet goed overweg kan met console commando&amp;rsquo;s, is het aangeraden WordPress te gebruiken. Het is veel gebruiksvriendelijker en overzichtelijker dan Hugo doordat er een console ter beschikking staat. Hugo daarentegen is wel handig als je volledige vrijheid wilt in het kiezen van opmaak. Of in het hosten van websites. Je kan namelijk uw posts offline aanmaken en later online zetten. Ikzelf blijf wel bij Hugo, nudat ik het meer snap.&lt;/p&gt;
+
+&lt;h1 id=&#34;overzicht-van-mijn-directory-structuur:9552ad8b1e8ceb647bc9fde0bc2a93e1&#34;&gt;Overzicht van mijn Directory-structuur&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Content&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In deze folder staan alle bestanden in die u op de website zult vinden. Dit is opgedeeld in &amp;lsquo;posts&amp;rsquo; en &amp;lsquo;stageverslagen&amp;rsquo;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;layouts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dit is de belangrijkste folder. Ik heb alle bestanden hier gekopiëerd van mijn thema.
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;default-map&lt;/em&gt;: hier staat de standaardcode in voor elke pagina dat aangemaakt wordt. Hier heb ik wat dingens moeten aanpassen die onnodig waren of het mij wat moeilijker maakten.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;partials-map&lt;/em&gt;: hier wordt er het meest gebruik gemaakt van Hugo. De footer, header en sidebar worden hier vandaan gehaald. Heb ik heel veel in moeten aanpassen om het te krijgen zoals ik wou.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;shortcodes&lt;/em&gt;: nog geen gebruik van gemaakt. Maar het zijn nuttige codes die ik kan gebruiken zoals youtube. Geeft een embed-link in voor youtube video&amp;rsquo;s.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;404&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;index.html&lt;/em&gt;: hier worden de range-instellingen bewaard voor mijn homepagina. Hoeveel posts er weergeven moeten worden.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;public&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dit is de uiteindelijke output map voor mijn website. Wordt helemaal gegenereerd door google en mijn layout-/static- en content-map.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;static&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hierin staan alle CSS en genericon codebestandjes. De layouts-map haalt hier zijn opmaak vandaan zodat de website er netjes uitziet. Ook deze map heb ik gekopiëerd van mijn thema. Ik heb hier echter niks in moeten aanpassen doordat alles al goed stond.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;404&lt;/em&gt;: voorals de pagina niet gevonden wordt.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;CSS&lt;/em&gt;: de opmaak van de website.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;genericons&lt;/em&gt;: icoontjes en dergelijke.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;highlight&lt;/em&gt;: een thema in een thema.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;media&lt;/em&gt;: hier wordt mijn profielfoto vandaan gehaald.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;config.toml&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dit is ook zowat het belangrijkste bestandje dat er is. Hier heb ik mijn baseurl geconfigureerd samen met veel andere configuraties. Heb ik helemaal aangepast.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mijn GitLab pagina: &lt;a href=&#34;https://gitlab.com/christophe-dumont/WebsiteGIP&#34;&gt;https://gitlab.com/christophe-dumont/WebsiteGIP&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mijn GitHub pagina: &lt;a href=&#34;https://github.com/ChristopheDumont/christophedumont.github.io&#34;&gt;https://github.com/ChristopheDumont/christophedumont.github.io&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taak 01 IT-tapa: Youtube Middagsessie</title>
+      <link>http://christophedumont.github.io/giptaken/Taak01/</link>
+      <pubDate>Tue, 20 Oct 2015 00:14:32 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak01/</guid>
+      <description>&lt;p&gt;Tijdens de IT-tapa sessie over youtube werd er meer verteld over de handige funties in youtube.
+Enkele besproken elementen waren:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Het gebruik van afspeellijsten&lt;/li&gt;
+&lt;li&gt;De functie later bekijken&lt;/li&gt;
+&lt;li&gt;De functie abonneren&lt;/li&gt;
+&lt;li&gt;Sneltoetsen op youtube&lt;/li&gt;
+&lt;li&gt;Het gebruik van filters&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;Deze taak is gemaakt in samenwerking met&lt;/code&gt; &lt;a href=&#34;http://mario-vankerckhoven.github.io/welkom/&#34;&gt;Mario Van Kerckhoven&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+ &lt;a href=&#34;https://www.youtube.com/watch?v=khHGXvcWmyw&#34;&gt;Hier vind U het instructiefilmpje in verband met youtube&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+ Enkele foto&amp;rsquo;s:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/Ph8g2ya.jpg&#34; alt=&#34;Doing IT things&#34; /&gt;
+ &lt;img src=&#34;http://i.imgur.com/lL03cQZ.jpg&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;br&gt;
+ &lt;a href=&#34;https://www.youtube.com/watch?v=khHGXvcWmyw&#34;&gt;Instructiefilmpje&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
