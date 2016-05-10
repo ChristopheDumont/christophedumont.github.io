@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Planeten</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <style type="text/css">
+    #titel  {
+      text-align: center;
+      font-size: 40px;
+      color: white;
+    }
+    #text {
+      text-align: center;
+    }
+
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #FFFF00;
+      border: 3px solid #000000;
+    }
+    li {
+      float:left;
+      color: black;
+    }
+    li a {
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 25px
+    }
+    p{
+      color: white;
+      font-size: 30px;
+    }
+    li a:hover {
+        background-color: #111;
+    }
+    .home {
+      background-color: #ff4500;
+    }
+    * {
+       font-family: LilyUPC;
+     }
+    body {
+      background-image:url(http://www.axsysnav.eu/wp-content/uploads/2014/07/space.jpg);
+      background-position: center;
+    }
+    </style>
+  </head>
+  <body>
+    <h1 id="titel"> Planeten </h1>
+    <h2 id="titel"> Taak 09 GIP Christophe Dumont</h2>
+<!-- navigatie bar tussen de planeten en zon -->
+    <ul>
+      <li onclick="infoOproep('zon')"><a>ZON</a></li> <!-- data attribuut (ideetje voor later uit te werken)-->
+      <li onclick="infoOproep('mercurius')"><a>MERCURIUS</a></li>
+      <li onclick="infoOproep('venus')"><a>VENUS</a></li>
+      <li onclick="infoOproep('aarde')"><a>AARDE</a></li>
+      <li onclick="infoOproep('mars')"><a>MARS</a></li>
+      <li onclick="infoOproep('jupiter')"><a>JUPITER</a></li>
+      <li onclick="infoOproep('saturnus')"><a>SATURNUS</a></li>
+      <li onclick="infoOproep('uranus')"><a>URANUS</a></li>
+      <li onclick="infoOproep('neptunus')"><a>NEPTUNUS</a></li>
+      <li onclick="infoOproep('pluto')"><a>PLUTO</a></li>
+      <li style="float:right"><a class="home" href="http://christophedumont.github.io">Home pagina</a></li>
+    </ul>
+    <div id="image"></div>
+    <p id="text">Klik op de planeet of ster die je wilt zien!</p>
+
+    <script type="text/javascript">
+    var info = {
+      zon: {naam:"Zon",diameter:"1 392 000 km",massa:"1.989e30 kg",afstand:"0 km",imgsrc:"http://i.imgur.com/3NuKvqm.jpg"},
+      mercurius: {naam:"Mercurius",diameter:"4 880 km",massa:"3.030e23 kg",afstand:"57 910 000 km",imgsrc:"http://i.imgur.com/p67CjbZ.jpg"},
+      venus : {naam:"Venus",diameter:"12 103.60 km",massa:"4.869e24 kg",afstand:"108 208 930 km",imgsrc:"http://i.imgur.com/qamULkI.jpg"},
+      aarde : {naam:"Aarde",diameter:"12 756.30 km",massa:"5.972e24 kg",afstand:"149 597 870 km",imgsrc:"http://i.imgur.com/iuPZ9F2.jpg"},
+      mars : {naam:"Mars",diameter:"6 794 km",massa:"6.4219e23 kg",afstand:"227 936 640 km",imgsrc:"http://i.imgur.com/p8Muzgd.jpg"},
+      jupiter : {naam:"Jupiter",diameter:"142 984 km",massa:"1.900e27 kg",afstand:"778 412 010 km",imgsrc:"http://i.imgur.com/zUiYy2j.jpg"},
+      saturnus : {naam:"Saturnus",diameter:"120 536 km",massa:"5.68e26 kg",afstand:"1 426 725 400 km",imgsrc:"http://i.imgur.com/umileD3.jpg"},
+      uranus : {naam:"Uranus",diameter:"51 118 km",massa:"8.683e25 kg",afstand:"2 870 972 200 km",imgsrc:"http://i.imgur.com/fz0Z83Z.jpg"},
+      neptunus : {naam:"Neptunus",diameter:"49 532 km",massa:"1.0247e26 kg",afstand:"4 498 252 900 km",imgsrc:"http://i.imgur.com/sWqnL6E.jpg"},
+      pluto : {naam:"Pluto",diameter:"2372 km",massa:"1.303e22 kg",afstand:"tussen de 4 446 000 000km en 7 381 000 000 km",imgsrc:"http://i.imgur.com/ppZj6Oi.jpg"}
+    }
+    function infoOproep(naam)
+    {
+      var object = info[naam];
+      document.getElementById("image").innerHTML =  "<img src=\"" + object.imgsrc + "\">";
+      document.getElementById("text").innerHTML =  "Naam: " + object.naam + "<br>" +  "Diameter: " + object.diameter + "<br>" + "Massa: " + object.massa + "<br>" + "Afstand van de zon : " + object.afstand;
+
+    }
+    </script>
+  </body>
+</html>

@@ -7,8 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>christophe.dumont5@hotmail.com (Christophe Dumont)</managingEditor>
     <webMaster>christophe.dumont5@hotmail.com (Christophe Dumont)</webMaster>
-    <lastBuildDate>Sun, 08 May 2016 16:39:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 May 2016 20:50:59 +0200</lastBuildDate>
     <atom:link href="http://christophedumont.github.io/giptaken/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Taak 06</title>
+      <link>http://christophedumont.github.io/giptaken/Taak06/</link>
+      <pubDate>Tue, 10 May 2016 20:50:59 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak06/</guid>
+      <description>&lt;p&gt;Verwijzing&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taak 09</title>
+      <link>http://christophedumont.github.io/giptaken/Taak09/</link>
+      <pubDate>Tue, 10 May 2016 20:49:46 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak09/</guid>
+      <description>&lt;p&gt;Verwijzing&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Taak 08 SQL database app</title>

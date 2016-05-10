@@ -3,18 +3,23 @@
   
   <url>
     <loc>http://christophedumont.github.io/</loc>
-    <lastmod>2016-05-08T16:39:18+02:00</lastmod>
+    <lastmod>2016-05-10T20:50:59+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://christophedumont.github.io/giptaken/Taak06/</loc>
+    <lastmod>2016-05-10T20:50:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://christophedumont.github.io/giptaken/Taak09/</loc>
+    <lastmod>2016-05-10T20:49:46+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://christophedumont.github.io/giptaken/Taak08/</loc>
     <lastmod>2016-05-08T16:39:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://christophedumont.github.io/posts/test/</loc>
-    <lastmod>2016-05-07T12:44:58+02:00</lastmod>
   </url>
   
   <url>
@@ -115,6 +120,10 @@
   <url>
     <loc>http://christophedumont.github.io/giptaken/Taak01/</loc>
     <lastmod>2015-10-20T00:14:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://christophedumont.github.io/posts/test/</loc>
   </url>
   
 </urlset>

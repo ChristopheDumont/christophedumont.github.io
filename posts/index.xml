@@ -7,154 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>christophe.dumont5@hotmail.com (Christophe Dumont)</managingEditor>
     <webMaster>christophe.dumont5@hotmail.com (Christophe Dumont)</webMaster>
-    <lastBuildDate>Sat, 07 May 2016 12:44:58 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Mar 2016 16:51:44 +0200</lastBuildDate>
     <atom:link href="http://christophedumont.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>test</title>
-      <link>http://christophedumont.github.io/posts/test/</link>
-      <pubDate>Sat, 07 May 2016 12:44:58 +0200</pubDate>
-      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
-      <guid>http://christophedumont.github.io/posts/test/</guid>
-      <description>&lt;html&gt;
-&lt;head&gt;
-
-  &lt;style&gt;
-  	.rotate90 {
-      -webkit-transform: rotate(90deg);
-      -moz-transform: rotate(90deg);
-      -o-transform: rotate(90deg);
-      -ms-transform: rotate(90deg);
-      transform: rotate(90deg);
-  }
-
-  &lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-  &lt;section class=&#34;bg-dark&#34; id=&#34;about&#34;&gt;
-    &lt;div class=&#34;container&#34;&gt;
-        &lt;div class=&#34;row&#34;&gt;
-			&lt;div class=&#34;col-lg-8 col-lg-offset-2 text-center&#34;&gt;
-                &lt;h2 class=&#34;section-heading&#34;&gt;IT-Profile&lt;/h2&gt;
-                &lt;hr class=&#34;light&#34;&gt;
-				&lt;h4&gt;In dit profiel stel ik de skills voor die ik de laatste jaren heb ontwikkeld.&lt;/h4&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-&lt;/section&gt;
-&lt;section class=&#34;bg-dark&#34; id=&#34;skills&#34;&gt;
-	&lt;div class=&#34;container&#34;&gt;
-        &lt;div class=&#34;row&#34;&gt;
-
-
-
-            &lt;div class=&#34;col-lg-10 col-lg-offset-1 text-center&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
-							C#
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-info progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:50%&#34;&gt;
-							jQuery
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-danger progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:20%&#34;&gt;
-							PHP
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:75%&#34;&gt;
-							HTML/CSS
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-info progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:60%&#34;&gt;
-							SQL
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-warning progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:30%&#34;&gt;
-							JavaScript
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:90%&#34;&gt;
-							GIT
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-
-
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-&lt;section class=&#34;bg-dark&#34; id=&#34;extra&#34;&gt;
-    &lt;div class=&#34;container&#34;&gt;
-        &lt;div class=&#34;row&#34;&gt;
-			&lt;div class=&#34;col-lg-8 col-lg-offset-2 text-center&#34;&gt;
-                &lt;h2 class=&#34;section-heading&#34;&gt;Extra info!&lt;/h2&gt;
-                &lt;hr class=&#34;light&#34;&gt;
-
-					&lt;div class=&#34;col-lg-10 col-lg-offset-1 text-center&#34;&gt;
-						 &lt;div class=&#34;progress&#34;&gt;
-							  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-							  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
-								Windows Server 2012 R2
-							  &lt;/div&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-						 &lt;div class=&#34;progress&#34;&gt;
-							  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-							  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:75%&#34;&gt;
-								WIndows 7
-							  &lt;/div&gt;
-						&lt;/div&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-						 &lt;div class=&#34;progress&#34;&gt;
-							  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-							  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:95%&#34;&gt;
-								Windows 8
-							  &lt;/div&gt;
-						&lt;/div&gt;
-				&lt;/div&gt;
-
-				&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:95%&#34;&gt;
-							Windows 10
-						  &lt;/div&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-&lt;/section&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</description>
-    </item>
     
     <item>
       <title>Voici un reportage photo concernant le stage!</title>
@@ -188,6 +42,114 @@ Op mijn website zal u al mijn taken en stageverslagen vinden die ik moet maken v
 Alvast heel veel leesplezier gewenst! Indien u vragen heeft, kan u mij contacteren via mijn e-mail (christophe.dumont@immalle.be).&lt;/p&gt;
 
 &lt;p&gt;Christophe Dumont&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://christophedumont.github.io/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/posts/test/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+  &lt;title&gt;Gip Taak06 Christophe Dumont&lt;/title&gt;
+  &lt;meta charset=&#34;utf-8&#34;&gt;
+  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&#34;&gt;
+  &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+  &lt;script src=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;container&#34;&gt;
+  &lt;h1 style=&#34;text-align: center&#34;&gt;IT-Profile &lt;/h1&gt;
+  &lt;h2 style=&#34;text-align: center&#34;&gt;Van Christophe Dumont&lt;/h2&gt;
+  &lt;p style=&#34;text-align: center;font-weight:20px&#34; &gt;&lt;a href=&#34;http://christophedumont.github.io&#34;&gt;Terugkeren naar home site&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Dit zijn mijn programmeer talen die ik de afgelopen twee jaar heb gezien.&lt;/p&gt;
+  &lt;p&gt;De progressbar en het procent duid aan hoeveel ik ervaren ben in het kennen van de programmeertaal&lt;/p&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-success&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;50&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:50%&#34;&gt;
+      50% C#
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-info&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:70%&#34;&gt;
+      70% HTML/CSS
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-warning&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;20&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:20%&#34;&gt;
+      20% jQuery
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-danger&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;30&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:30%&#34;&gt;
+      30% PHP
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-info&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;60&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:60%&#34;&gt;
+      60% Javascript
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-success&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;55&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:55%&#34;&gt;
+      55% SQL
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-danger&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;85&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
+      85% GIT
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-warning&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;10&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:10%&#34;&gt;
+      10% Lua/Go
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;container&#34;&gt;
+  &lt;h3 style=&#34;text-align:center&#34;&gt;Wat wil ik later nog verder ontwikkelen?&lt;/h3&gt;
+  &lt;p&gt;Al van kleins af aan ben ik een gamer, dus mijn droom is altijd al geweest om een game developer te worden&lt;/p&gt;
+  &lt;p&gt;Hiervoor moet ik uiteraard wel een aantal talen helemaal kennen, waaronder: &lt;/p&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-success&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;50&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:50%&#34;&gt;
+      50% C#
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-success&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;10&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:10%&#34;&gt;
+      10% Lua
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-success&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;30&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:30%&#34;&gt;
+      30% C
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-success&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;30&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:30%&#34;&gt;
+      30% C++
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-success&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;50&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:50%&#34;&gt;
+      50% Java
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-success&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;100&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:100%&#34;&gt;
+      0% Visual Basic/ .NET
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;p&gt;Lua is vooral voor te &#39;modden&#39;. Ik heb nog nooit Visual Basic of .NET geleerd. C en C++ lijken wat op C# dus de basis ervan zal ik snel onder de knie hebben.&lt;/p&gt;
+  &lt;p&gt;Java is zo goed als hetzelfde vergeleken met C#, dus dat ken ik even goed&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
 </description>
     </item>
     

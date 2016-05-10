@@ -7,8 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>christophe.dumont5@hotmail.com (Christophe Dumont)</managingEditor>
     <webMaster>christophe.dumont5@hotmail.com (Christophe Dumont)</webMaster>
-    <lastBuildDate>Sun, 08 May 2016 16:39:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 May 2016 20:50:59 +0200</lastBuildDate>
     <atom:link href="http://christophedumont.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Taak 06</title>
+      <link>http://christophedumont.github.io/giptaken/Taak06/</link>
+      <pubDate>Tue, 10 May 2016 20:50:59 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak06/</guid>
+      <description>&lt;p&gt;Verwijzing&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taak 09</title>
+      <link>http://christophedumont.github.io/giptaken/Taak09/</link>
+      <pubDate>Tue, 10 May 2016 20:49:46 +0200</pubDate>
+      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
+      <guid>http://christophedumont.github.io/giptaken/Taak09/</guid>
+      <description>&lt;p&gt;Verwijzing&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Taak 08 SQL database app</title>
@@ -29,152 +49,6 @@
 &lt;p&gt;Mijn applicatie gaat om een anoniem forum waar iedereen op kan. Iedereen kan een post plaatsen als hij/zij wenst en ook commentaar geven. De mensen hoeven zich niet aan te melden om op de site te komen. Bij het plaatsen van een post, kunnen ze kiezen of ze onder een bepaalde naam iets willen plaatsen of niet. Dat is de kern van mijn applicatie. Uitbreiding is zeker mogelijk, naar onder andere live-chat, bloggen, vloggen, delen van foto&amp;rsquo;s, enz &amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;Om te zien of er geen expliciete of ongeschikte beelden worden gepost, zijn er administrators die alles in het oog kunnen houden. Zij moeten zich dan aanmelden op de website en kunnen ze posts en commentaar verwijderen.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>http://christophedumont.github.io/posts/test/</link>
-      <pubDate>Sat, 07 May 2016 12:44:58 +0200</pubDate>
-      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
-      <guid>http://christophedumont.github.io/posts/test/</guid>
-      <description>&lt;html&gt;
-&lt;head&gt;
-
-  &lt;style&gt;
-  	.rotate90 {
-      -webkit-transform: rotate(90deg);
-      -moz-transform: rotate(90deg);
-      -o-transform: rotate(90deg);
-      -ms-transform: rotate(90deg);
-      transform: rotate(90deg);
-  }
-
-  &lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-  &lt;section class=&#34;bg-dark&#34; id=&#34;about&#34;&gt;
-    &lt;div class=&#34;container&#34;&gt;
-        &lt;div class=&#34;row&#34;&gt;
-			&lt;div class=&#34;col-lg-8 col-lg-offset-2 text-center&#34;&gt;
-                &lt;h2 class=&#34;section-heading&#34;&gt;IT-Profile&lt;/h2&gt;
-                &lt;hr class=&#34;light&#34;&gt;
-				&lt;h4&gt;In dit profiel stel ik de skills voor die ik de laatste jaren heb ontwikkeld.&lt;/h4&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-&lt;/section&gt;
-&lt;section class=&#34;bg-dark&#34; id=&#34;skills&#34;&gt;
-	&lt;div class=&#34;container&#34;&gt;
-        &lt;div class=&#34;row&#34;&gt;
-
-
-
-            &lt;div class=&#34;col-lg-10 col-lg-offset-1 text-center&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
-							C#
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-info progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:50%&#34;&gt;
-							jQuery
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-danger progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:20%&#34;&gt;
-							PHP
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:75%&#34;&gt;
-							HTML/CSS
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-info progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:60%&#34;&gt;
-							SQL
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-warning progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:30%&#34;&gt;
-							JavaScript
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-			&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:90%&#34;&gt;
-							GIT
-						  &lt;/div&gt;
-					&lt;/div&gt;
-            &lt;/div&gt;
-
-
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-&lt;section class=&#34;bg-dark&#34; id=&#34;extra&#34;&gt;
-    &lt;div class=&#34;container&#34;&gt;
-        &lt;div class=&#34;row&#34;&gt;
-			&lt;div class=&#34;col-lg-8 col-lg-offset-2 text-center&#34;&gt;
-                &lt;h2 class=&#34;section-heading&#34;&gt;Extra info!&lt;/h2&gt;
-                &lt;hr class=&#34;light&#34;&gt;
-
-					&lt;div class=&#34;col-lg-10 col-lg-offset-1 text-center&#34;&gt;
-						 &lt;div class=&#34;progress&#34;&gt;
-							  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-							  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
-								Windows Server 2012 R2
-							  &lt;/div&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-						 &lt;div class=&#34;progress&#34;&gt;
-							  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-							  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:75%&#34;&gt;
-								WIndows 7
-							  &lt;/div&gt;
-						&lt;/div&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-						 &lt;div class=&#34;progress&#34;&gt;
-							  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-							  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:95%&#34;&gt;
-								Windows 8
-							  &lt;/div&gt;
-						&lt;/div&gt;
-				&lt;/div&gt;
-
-				&lt;div class=&#34;col-lg-10 col-lg-offset-1&#34;&gt;
-					 &lt;div class=&#34;progress&#34;&gt;
-						  &lt;div class=&#34;progress-bar progress-bar-success progress-bar-striped active&#34; role=&#34;progressbar&#34;
-						  aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:95%&#34;&gt;
-							Windows 10
-						  &lt;/div&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-&lt;/section&gt;
-&lt;/body&gt;
-&lt;/html&gt;
 </description>
     </item>
     
@@ -389,22 +263,6 @@
 &lt;p&gt;** 13 Januari 2016 **&lt;/p&gt;
 
 &lt;p&gt;Vandaag was het spijtig genoeg een saaiere dag dan anders, er was niet veel werk voor mij om te doen dus heb zitten werken aan mijn GIP-taken. De twee laptops van de vorige dag waren nog niet helemaal in orde dus heb ik ze wel in orde gebracht in de ochtend maar dat was alles. Ook heb ik nog wat opgezocht over het programma voor mijn Case Study.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dag 2</title>
-      <link>http://christophedumont.github.io/stageverslagen/Dag2/</link>
-      <pubDate>Tue, 12 Jan 2016 14:01:08 +0200</pubDate>
-      <author>christophe.dumont5@hotmail.com (Christophe Dumont)</author>
-      <guid>http://christophedumont.github.io/stageverslagen/Dag2/</guid>
-      <description>
-
-&lt;h2 id=&#34;ik-begin-iedereen-te-kennen:46ee5d0b3bc7af4357c80f2500337c90&#34;&gt;Ik begin iedereen te kennen&lt;/h2&gt;
-
-&lt;p&gt;** 12 Januari 2016 **&lt;/p&gt;
-
-&lt;p&gt;De volgende dag ging al wat vlotter, ik begin de mensen beter te kennen en hun mij dus voel ik me al meer en meer thuis! Ik kreeg ditmaal iets meer werk maar dat vond ik helemaal niet erg, ik moest de laptop van een klant nakijken doordat die continu crashte. Een switch resetten en een Ultra Compact PC Kit ineen steken van Gigabyte BRIX. En net zoals de eerste dag, weer twee laptops configureren. Voor de rest heb ik wat gewerkt aan mijn GIP-taken vandaag.&lt;/p&gt;
 </description>
     </item>
     
